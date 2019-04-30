@@ -1,0 +1,126 @@
+ 1  ls
+    2  cd desktop
+    3  cd problem 
+    4  pwd
+    5  cd programming
+    6  cd programming\ training/
+    7  cd git
+    8  pwd
+    9  pwd
+   10  ls
+   11  cd ..
+   12  cd git
+   13  git --version
+   14  git help
+   15  git config --list
+   16  q
+   17  git config --list
+   18  git config --list
+   19  git config-- user.name"roshankanna"
+   20  git config--global user.name"roshankanna"
+   21  git config user.name"roshankanna'
+   22  git config user.name
+   23  git config --global user.name"roshankanna"
+   24  git config user.name"roshankanna'
+   25  git config user.name
+   26  git config user.name
+   27  git config user.name
+   28  ls
+   29  ls
+   30  cd desktop
+   31  ls
+   32  git --version
+   33  git config --global user.name "roshankanna"
+   34  git config  user.name
+   35  git init
+   36  ls
+   37  ls -a
+   38  cd .git
+   39  cat config
+   40  cd ..
+   41  cd ..
+   42  cat config
+   43  ls
+   44  cat config
+   45  q
+   46  pwd
+   47  git add
+   48  cd ..
+   49  ls
+   50  cd git
+   51  pwd
+   52  cd desktop
+   53  cd ..
+   54  cd ..
+   55  cd desktop
+   56  cd desktop
+   57  git status
+   58  git config --global user.name "roshankanna"
+   59  pwd
+   60  cd programming\ training/
+   61  cd git
+   62  git add data.txt
+   63  ls
+   64  mv data.txt.txt data.txt
+   65  ls
+   66  git add data.txt
+   67  git commit -m "initial commit"
+   68  git config --global user.email "roshankanna"
+   69  git config --global user.name "roshankanna"
+   70  git commit -m "initial commit"
+   71  git add roshnkanna.txt
+   72  get config user.name
+   73  git config user.name
+   74  cat data2.txt
+   75  git add data2.txt
+   76  ls
+   77  git add data.txt
+   78  git add data2.txt
+   79  git add data2.txt
+   80  ls
+   81  git add data2.txt
+   82  touch data2.txt
+   83  git add data2.txt
+   84  git status
+   85  git add data2.txt
+   86  echo "roshankanna" >> data2.txt
+   87  git add data2.txt
+   88  git status
+   89  git status
+   90  git add data.txt
+   91  git status
+   92  git status
+   93  git add data.txt
+   94  git status
+   95  git add data.txt
+   96  git status
+   97  cat dat.txt
+   98  git add data.txt
+   99  git status
+  100  git add data.txt
+  101  ls
+  102  cd Desktop
+  103  ls
+  104  ls
+  105  cd Desktop
+  106  cd Git
+  107  cd git
+  108  cd programming\ training/
+  109  cd git/
+  110  ls
+  111  cd ..
+  112  mkdir test
+  113  ls
+  114  cd test/
+  115  git init
+  116  git remote add test2 https://github.com/Roshankanna/roshan-kanna/tree/master
+  117  git pull test2 master
+  118  git pull test2 master
+  119  ls
+  120  ls[A
+  121  history 200
+  122  history 200 >git-commands.txt
+  123  cd Desktop
+  124  cd programming\ training/
+  125  cd git
+  126  history 200 >git-commands.txt
